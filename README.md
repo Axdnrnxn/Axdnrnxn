@@ -2,13 +2,10 @@
 
 <img align="right" height="150" src="https://i.imgflip.com/9nk532.gif" />
 
-###
-
-# 💻 Tech Stack:
+### 💻 Tech Stack:
 ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-###
 
-<h3 align="left">📚 Currently Learning</h3>
+### 📚 Currently Learning
 <div align="left">
   <ul>
     <li>Flutter</li>
@@ -19,9 +16,7 @@
   </ul>
 </div>
 
-###
-
-<h3 align="left">📫 Connect with Me</h3>
+### 📫 Connect with Me
 <div align="left">
   <a href="https://www.instagram.com/axd.rnxn/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
@@ -47,14 +42,10 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Axdnrnxn&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Axdnrnxn/Axdnrnxn/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Axdnrnxn/Axdnrnxn/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Axdnrnxn/Axdnrnxn/output/pacman-contribution-graph.svg">
 </picture>
-
-###
 
 Thank you for visiting my profile! I'm eager to learn and grow in the tech field, and I look forward to connecting with like-minded individuals. 😊
